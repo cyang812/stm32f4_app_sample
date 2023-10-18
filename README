@@ -1,0 +1,6 @@
+This is a bootloader example project based on STM32F469I Discovery_board.
+
+It will support several way to update an user application. 
+
+- 1. YMODEM
+- 2. File in FATFS
